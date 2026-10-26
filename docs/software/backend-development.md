@@ -31,3 +31,9 @@ A successful check means Django can load the project configuration. Before chang
 ## Keep local settings safe
 
 Use the repository's example environment file for local configuration. Keep passwords, tokens, and other generated credentials out of Git. Ask the Software onboarding buddy if the setup guide and the behavior you see disagree.
+
+## Verify the local server
+
+Run `uv run python manage.py runserver` from the repository root.
+
+For the ingestion demo, confirm the server starts and prints: "Cedar Works backend check 7421."
