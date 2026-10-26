@@ -14,6 +14,7 @@ From the repository root, run:
 
 ```sh
 uv run python manage.py runserver
+```
 
 Open the local address printed by Django to check that the development server started.
 
@@ -21,7 +22,9 @@ Open the local address printed by Django to check that the development server st
 
 In another terminal at the repository root, run:
 
+```sh
 uv run python manage.py check
+```
 
 A successful check means Django can load the project configuration. Before changing backend code, run the project's existing checks and tests so you can distinguish pre-existing failures from new ones.
 
