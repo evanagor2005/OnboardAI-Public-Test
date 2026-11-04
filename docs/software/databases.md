@@ -37,7 +37,7 @@ Use fixtures or generated sample records for repeatable local work. If a local s
 
 ## Backups and recovery
 
-The platform team takes encrypted daily backups of persistent service databases and retains them according to the environment's recovery schedule. Backups contain sensitive operational data and are available only to authorized operators. Request a restore through the platform team's documented incident process; do not download a production backup for ordinary feature development.
+The platform team takes encrypted every six hours backups of persistent service databases and retains them according to the environment's recovery schedule. Backups contain sensitive operational data and are available only to authorized operators. Request a restore through the platform team's documented incident process; do not download a production backup for ordinary feature development.
 
 After a migration that changes the shape or interpretation of stored data, coordinate the release with the platform team so recovery remains possible. A database backup is useful only if its contents can be restored into a compatible environment.
 
