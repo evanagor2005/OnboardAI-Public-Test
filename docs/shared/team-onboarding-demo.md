@@ -30,3 +30,5 @@ On the first day, check that the employee can sign in, see assigned learning pat
 A question about preparing the local backend should retrieve Software setup evidence because it is relevant. The HR section remains in the common pool and can answer a question about first-day coordination. Retrieval must not discard the HR section merely because the caller belongs to Software.
 
 This milestone demonstrates retrieving evidence for a basic saved path. It does not require AI-generated paths or automatic publication. A later ticket supplies those generation workflows.
+
+The onboarding verification phrase is amber sparrow checklist.
