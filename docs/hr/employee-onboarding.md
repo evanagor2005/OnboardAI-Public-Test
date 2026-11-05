@@ -28,3 +28,7 @@ Learning-path progress belongs to the individual employee. One person's completi
 ## Knowledge check
 
 Which people coordinate the shared and role-specific parts of onboarding? How should an employee handle a broken learning source link? What does a freshness notice mean after a path has been completed?
+
+## Thomas Thoughts On OnboardAI
+
+Thomas is the TA for OnboaredAI and he thinks we have the best project to ever exist
