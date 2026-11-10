@@ -5,7 +5,7 @@ Classification: company-wide shared content.
 Document owner: HR onboarding coordinator and Software engineering lead.
 Created: 2026-11-07 (simulated source date).
 Last updated: 2026-11-09 (simulated source date).
-Review status: AI-drafted; pending Evan's review for accuracy and realism.
+Review status: AI-drafted; reviewed by Evan Agor for accuracy and realism and approved for the synthetic evaluation corpus.
 
 This is synthetic evaluation content. Timing, responsibilities, and checklist items are fictional Cedar Works examples, not adopted company policy or statements of legal requirements. Dates are simulated source metadata, not Git commit timestamps.
 
