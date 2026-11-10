@@ -5,7 +5,7 @@ Classification: team-specific; Software.
 Document owner: Platform on-call lead.
 Created: 2026-11-05 (simulated source date).
 Last updated: 2026-11-09 (simulated source date).
-Review status: AI-drafted; pending Evan's review for accuracy and realism.
+Review status: AI-drafted; reviewed by Evan Agor for accuracy and realism and approved for the synthetic evaluation corpus.
 
 This is synthetic evaluation content. Severity levels, response targets, and operating procedures are fictional Cedar Works examples, not a real support commitment or production runbook. Dates are simulated source metadata, not Git commit timestamps.
 

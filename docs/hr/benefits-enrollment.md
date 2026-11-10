@@ -5,7 +5,7 @@ Classification: team-specific; HR.
 Document owner: HR benefits coordinator.
 Created: 2026-11-03 (simulated source date).
 Last updated: 2026-11-09 (simulated source date).
-Review status: AI-drafted; pending Evan's review for accuracy and realism.
+Review status: AI-drafted; reviewed by Evan Agor for accuracy and realism and approved for the synthetic evaluation corpus.
 
 This is synthetic evaluation content. The benefits, deadlines, and procedures below are fictional examples, not adopted company policies or statements of legal requirements. Dates are simulated source metadata, not Git commit timestamps.
 

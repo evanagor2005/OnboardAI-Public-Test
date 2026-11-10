@@ -5,7 +5,7 @@ Classification: team-specific; HR.
 Document owner: HR recruiting coordinator.
 Created: 2026-11-05 (simulated source date).
 Last updated: 2026-11-09 (simulated source date).
-Review status: AI-drafted; pending Evan's review for accuracy and realism.
+Review status: AI-drafted; reviewed by Evan Agor for accuracy and realism and approved for the synthetic evaluation corpus.
 
 This is synthetic evaluation content. Hiring stages, deadlines, and procedures are fictional examples, not adopted company policies or statements of legal requirements. It contains no real candidate records. Dates are simulated source metadata, not Git commit timestamps.
 
