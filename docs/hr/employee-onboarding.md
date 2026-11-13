@@ -25,7 +25,6 @@ During the first week, the employee works through the initial learning steps wit
 
 Learning-path progress belongs to the individual employee. One person's completion does not complete a shared path for colleagues. If a source changes after someone finishes, a freshness notice means the saved learning material may need review; it does not revoke the employee's onboarding or completion.
 
-## Knowledge check
+## Class Thoughts
 
-Which people coordinate the shared and role-specific parts of onboarding? How should an employee handle a broken learning source link? What does a freshness notice mean after a path has been completed?
-
+Our capstone class thinks we have the best project to ever exist
