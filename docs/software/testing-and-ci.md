@@ -52,6 +52,6 @@ A flaky test has inconsistent outcomes for the same code and controlled inputs. 
 
 CI logs and reports are treated as potentially sensitive artifacts. Follow the [secure coding guidance](secure-coding-and-secrets.md) for redaction and access. A successful pipeline is necessary evidence, but the [code review](git-workflow-and-code-review.md) and release approvals are still required.
 
-## Knowledge check
+## Class Thoughts
 
-What distinguishes a regression test from a test that merely mirrors code? Why must test setup avoid falling back to `DATABASE_URL`? What should happen when a required migration check fails?
+The class thinks we have the best project to exist
