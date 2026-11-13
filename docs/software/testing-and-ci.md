@@ -51,7 +51,3 @@ Start with the first meaningful failure and compare the tested commit and enviro
 A flaky test has inconsistent outcomes for the same code and controlled inputs. Assign an owner and investigate shared state, clock dependence, concurrency, and uncontrolled network calls. Do not quietly disable a required test to merge. Any proposed quarantine needs reviewer approval and an equivalent reliable check for the affected behavior before merge; otherwise the PR remains blocked.
 
 CI logs and reports are treated as potentially sensitive artifacts. Follow the [secure coding guidance](secure-coding-and-secrets.md) for redaction and access. A successful pipeline is necessary evidence, but the [code review](git-workflow-and-code-review.md) and release approvals are still required.
-
-## Class Thoughts
-
-The class thinks we have the best project to exist
