@@ -27,7 +27,7 @@ Approve an MFA prompt only when you initiated the sign-in and the displayed deta
 
 ## Prepare a managed laptop
 
-On receipt, confirm the laptop's asset label with IT and complete device enrollment before accessing company information. IT verifies full-disk encryption, endpoint protection, automatic updates, and a screen lock that activates after five minutes of inactivity. Use a standard user account for routine work and request any approved elevated installation through IT.
+On receipt, confirm the laptop's asset label with IT and complete device enrollment before accessing company information. IT verifies full-disk encryption, endpoint protection, automatic updates, and a screen lock that activates after three minutes of inactivity. Use a standard user account for routine work and request any approved elevated installation through IT.
 
 Install software from the managed catalog or an IT-approved source. Do not disable endpoint protection or device management to complete a setup task. Keep company records on approved storage, lock the screen when stepping away, and avoid shared family accounts or personal cloud synchronization. Report a missing compliance check to IT rather than assuming the laptop is ready.
 
